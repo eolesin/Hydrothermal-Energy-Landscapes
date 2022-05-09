@@ -20,7 +20,6 @@ python CheckType.py subcrt_commands_database.txt thermo.com.v8.r6+_mod051112_p50
 # Polish_CheckType.sh
 #Takes output file from CheckType.py and adds header with pressure and temperatures of choice. 
 #Eliminates unncessary columns from previous output and comments out H2O(g) line.
-#Also eliminates Håkon's really good annotations of updates.
 
 #Type this in the command line. The program takes user inputs of pressure and temp one at a time.
 ```
